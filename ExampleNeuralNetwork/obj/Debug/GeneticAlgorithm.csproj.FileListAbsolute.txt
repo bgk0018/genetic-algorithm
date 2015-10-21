@@ -1,0 +1,6 @@
+D:\Projects\ExampleNeuralNetwork\ExampleNeuralNetwork\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+D:\Projects\ExampleNeuralNetwork\ExampleNeuralNetwork\obj\Debug\ExampleNeuralNetwork.exe
+D:\Projects\ExampleNeuralNetwork\ExampleNeuralNetwork\obj\Debug\ExampleNeuralNetwork.pdb
+D:\Projects\ExampleNeuralNetwork\ExampleNeuralNetwork\bin\Debug\ExampleNeuralNetwork.exe.config
+D:\Projects\ExampleNeuralNetwork\ExampleNeuralNetwork\bin\Debug\ExampleNeuralNetwork.exe
+D:\Projects\ExampleNeuralNetwork\ExampleNeuralNetwork\bin\Debug\ExampleNeuralNetwork.pdb
